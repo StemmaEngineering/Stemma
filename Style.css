@@ -1,0 +1,23 @@
+nav table tr td:hover a {
+	background-color: grey;
+	color:blue;
+	}
+h1{
+	font-size:3em;
+	text-align: center;
+	color:red;
+}
+h2{
+	text-align:center;
+	font-size: 2em;
+	color:red;
+}
+header image{
+	width:7em;
+	height:7em;
+}
+form center input:hover{
+	background-color: blue;
+	color:red;
+	font size:3em;
+}
